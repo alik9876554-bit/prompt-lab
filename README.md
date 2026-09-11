@@ -1,2 +1,3 @@
-# prompt-lab
-A practical Prompt Engineering project demonstrating how structured and few-shot prompting improve AI-generated results.
+# Prompt Lab — From Bad Prompts to Better Results
+
+A practical Prompt Engineering project demonstrating how different prompting techniques can improve AI-generated results.
