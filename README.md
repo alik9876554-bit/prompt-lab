@@ -1,62 +1,57 @@
 # Prompt Lab — From Bad Prompts to Better Results
 
-## Project Overview
+A practical Prompt Engineering project demonstrating how different prompting techniques can improve AI-generated results.
 
-Prompt Lab is a practical project that demonstrates how prompt engineering techniques can improve AI-generated results.
+## Project Goal
 
-The project focuses on teaching beginners and teenagers how to move from simple and vague prompts to structured and more effective prompts.
+The goal of this project is to explore how prompt structure, context, constraints and examples affect the quality and consistency of AI-generated content.
 
-## What This Project Demonstrates
+The project is designed as a practical experiment that can also be used as an educational example for teenagers learning Generative AI.
+
+---
+
+## What I Explore
 
 - Prompt Engineering
-- Structured Prompting
+- Structured Prompts
 - Few-shot Prompting
-- Context and Constraints
+- Role and Context
+- Constraints
 - Output Formatting
-- AI hallucinations and fact-checking
-- Iterative prompt improvement
+- AI-generated storytelling
+- Evaluation of AI outputs
 
-## Main Challenge
+---
 
-The main example is creating a storyboard for a short AI-generated animation.
+## Main Experiment
 
-The prompt is gradually improved through several stages:
+The project compares four approaches to the same task:
 
-**Bad Prompt → Improved Prompt → Structured Prompt → Few-shot Prompt**
+**1. Bad Prompt**  
+A simple and vague instruction.
 
-## Educational Focus
+**2. Improved Prompt**  
+Additional context, requirements and constraints.
 
-The project is designed with teenagers aged 12–18 in mind.
+**3. Structured Prompt**  
+The instruction is organized into clear sections such as:
 
-The goal is not only to demonstrate prompting techniques, but also to show how complex AI concepts can be explained through simple examples and practical exercises.
+`ROLE → TASK → CONTEXT → AUDIENCE → CONSTRAINTS → OUTPUT`
 
-## Tools
+**4. Few-shot Prompt**  
+The prompt includes an example of the desired output.
 
-- ChatGPT
-- Generative AI tools
-- GitHub
+### Experiment Flow
 
-## Learning Outcomes
-
-After completing this project, a beginner should understand:
-
-1. What a prompt is.
-2. Why context matters.
-3. How to structure a prompt.
-4. What few-shot prompting is.
-5. Why AI can generate incorrect information.
-6. How to improve and evaluate AI-generated results.
-
-## Project Structure
-
-Coming soon:
-
-- Bad vs Good Prompt examples
-- Structured Prompt examples
-- Few-shot Prompt examples
-- Practical exercises
-- Final Prompt Challenge
-
-## Author
-
-Generative AI Workshop Leader portfolio project.
+```text
+Bad Prompt
+     ↓
+Improved Prompt
+     ↓
+Structured Prompt
+     ↓
+Few-shot Prompt
+     ↓
+Compare Results
+     ↓
+Evaluate Quality
